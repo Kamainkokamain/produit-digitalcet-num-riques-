@@ -1,0 +1,7 @@
+{
+  "name": "Adlam-Tech Academy",
+  "description": "Une plateforme immersive pour apprendre l'alphabet Adlam, l'informatique, la programmation et la cybersécurité (hacking éthique) du niveau débutant à avancé.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
